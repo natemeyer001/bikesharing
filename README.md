@@ -2,7 +2,7 @@
 Exploring City Bike data from New York to see if there are any general patterns that support adding City Bikes to Iowa. Using Tableua for data visualizations and Python for some data manipulation.
 
 ## Results
-[https://public.tableau.com/app/profile/nathaniel.meyer/viz/CityBike_16352734882480/CityBikeStory](Link to Dashboard)
+[Link to Dashboard](https://public.tableau.com/app/profile/nathaniel.meyer/viz/CityBike_16352734882480/CityBikeStory)
 
 The first page of the story shows filterable line-graphs that show how long the bikes were checked out. The top graph is for all users (subscribers or not) with a filter for the how long (in hours) the bike was checked out. As you can see, the almost all rides are under an hour, with over half lasting under 30 minutes. The bottom graph splits the graph above by gender, and has two filters: 1- length of trip (in hours), and 2- gender. This shows that most of the users are male.
 
